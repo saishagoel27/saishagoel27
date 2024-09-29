@@ -1,6 +1,6 @@
 ![logo](https://github.com/saishagoel27/saishagoel27/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Saisha Goel</h1>
-<h3 align="center">A Sophomore eager to learn and explore new stuff and connect with people</h3>
+<h3 align="center">A Sophomore eager to learn and explore new stuff and connect with people.</h3>
 <img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/04/96/27/28/1000_F_496272894_GMuPuYT92PFU3vTD8tZ19BE6Qg9G3oTD.jpg">
 
 <p align="left"> <a href="https://twitter.com/saisha50545" target="blank"><img src="https://img.shields.io/twitter/follow/saisha50545?logo=twitter&style=for-the-badge" alt="saisha50545" /></a> </p>
