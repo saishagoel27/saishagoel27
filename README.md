@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **resources related to AI/ML, Generative AI and Prompt Engineering**
 
-- 📝 I regularly write articles on [https://medium.com/@saishagoel](https://medium.com/@saishagoel)
+- 📝 I sometimes write blogs on [https://medium.com/@saishagoel](https://medium.com/@saishagoel)
 
 - 📫 How to reach me **saishagoel005@gmail.com**
 
