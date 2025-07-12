@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/saisha50545" target="blank"><img src="https://img.shields.io/twitter/follow/saisha50545?logo=twitter&style=for-the-badge" alt="saisha50545" /></a> </p>
 
-- 🔭 I’m currently in **my second year**
+- 🔭 I’m currently in **my third year**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently exploring **AI/ML**
 
 - 👯 I’m looking to connect with **people interested in making and sharing tech content**
 
