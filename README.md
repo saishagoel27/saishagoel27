@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently in **my third year**
 
-- 🌱 I’m currently exploring **AI/ML**
+- 🌱 I’m currently exploring **AI/ML and Cloud**
 
 - 👯 I’m looking to connect with **people interested in making and sharing tech content**
 
