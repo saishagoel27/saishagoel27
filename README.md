@@ -157,7 +157,7 @@ Check out my writing ✨
 <img src="https://img.shields.io/badge/Medium-📖%20Main%20Writing%20Hub-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 <a href="https://x.com/saisha50545" target="_blank">
-<img src="https://img.shields.io/badge/X-🐦%20Hot%20Takes-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"
+<img src="https://img.shields.io/badge/X-🐦%20Hot%20Takes-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
 <a href="https://dev.to/saisha_goel" target="_blank">
 <img src="https://img.shields.io/badge/Dev.to-💡%20Tech%20Stories-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
