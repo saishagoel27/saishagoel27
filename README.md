@@ -29,7 +29,7 @@ Yo, I'm **Saisha** and I'm that girl who thinks neural networks are basically ju
 
 when I'm not crying over tensor dimensions, I'm writing about why AI is actually pretty chill and how we can make friends with our robot overlords 🤖💕
 
-**current status:** debugging my life choices but also tensorflow models 📍
+**current status:** debugging my life choices but also tensorflow models 
 
 <br><br>
 
