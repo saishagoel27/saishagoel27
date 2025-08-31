@@ -23,9 +23,9 @@
 
 ## 🔮 the vibe check
 
-yo, I'm **Saisha** and I'm that girl who thinks neural networks are basically just spicy math ✨
+Yo, I'm **Saisha** and I'm that girl who thinks neural networks are basically just spicy math ✨
 
-**pre-final year CS student** at Amity University who's absolutely obsessed with making AI/ML feel less intimidating and more like... idk, your cool older sister explaining TikTok algorithms? 
+**Pre-final year CS student** who's absolutely obsessed with making ML feel less intimidating and more like... I don't know, your cool older sister explaining how the YouTube algorithm works? 
 
 when I'm not crying over tensor dimensions, I'm writing about why AI is actually pretty chill and how we can make friends with our robot overlords 🤖💕
 
