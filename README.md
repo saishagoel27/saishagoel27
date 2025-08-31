@@ -105,18 +105,18 @@ when I'm not crying over tensor dimensions, I'm writing about why AI is actually
 
 <br><br>
 
-🎯 **Microsoft Azure AI Fundamentals (AI-900)** - *certified cloud girlie*  
-🧠 **NVIDIA Deep Learning Fundamentals** - *neural network whisperer*  
-💻 **GitHub Foundations** - *git gud at version control*  
-🐍 **Python for Data Science (NPTEL)** - *data manipulation queen*  
-📝 **Technical Communication** - *making tech sound less boring*
+ **Microsoft Azure AI Fundamentals (AI-900)** - *certified cloud girlie*  
+ **NVIDIA Deep Learning Fundamentals** - *neural network whisperer*  
+ **GitHub Foundations** - *git gud at version control*  
+ **Python for Data Science (NPTEL)** - *data manipulation queen*  
+ **Technical Communication** - *making tech sound less boring*
 
 <br>
 
 **community involvement that actually matters:**
-- 💫 Core member @ GFG Student Chapter (building tech community vibes)
-- 🚀 Leading Microsoft Azure Student Chapter (spreading Azure love)
-- 🌟 Organizing Azure events (because cloud computing is fun, fight me)
+-  Core member @ GFG Student Chapter (building tech community vibes)
+-  Leading Microsoft Azure Student Chapter (spreading Azure love)
+-  Organizing Azure events (because cloud computing is fun, fight me)
 
 </div>
 
@@ -157,23 +157,29 @@ class CurrentMood:
 
 <br>
 
-**let's be internet friends!**
-
+let's be internet friends!
+check out my writing ✨
 <br>
-
-<a href="https://linkedin.com/in/saisha-goel" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="https://medium.com/@saishagoel" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+<img src="https://img.shields.io/badge/Medium-📖%20Main%20Writing%20Hub-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="https://dev.to/saisha_goel" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-💡%20Tech%20Stories-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+<a href="https://hashnode.com/@saishagoel27" target="_blank">
+<img src="https://img.shields.io/badge/Hashnode-📚%20Deep%20Dives-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+</a>
+<a href="https://substack.com/@saishagoel27" target="_blank">
+<img src="https://img.shields.io/badge/Substack-💌%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
+</a>
+<a href="https://linkedin.com/in/saisha-goel" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-💼%20Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:saishagoel005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-💌%20Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br><br>
-
-*thanks for stopping by my corner of the internet! stay curious, stay caffeinated* ☕✨
+<br>
+*thanks for stopping by my corner of the internet! stay curious, stay caffeinated* ☕
 
 <br>
 
