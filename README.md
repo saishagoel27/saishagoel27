@@ -115,7 +115,7 @@ when I'm not crying over tensor dimensions, I'm writing about why AI is actually
 
 **community involvement that actually matters:**
 - 💫 Core member @ GFG Student Chapter (building tech community vibes)
-- 🚀 Leading Microsoft Learn Student Chapter (spreading Azure love)
+- 🚀 Leading Microsoft Azure Student Chapter (spreading Azure love)
 - 🌟 Organizing Azure events (because cloud computing is fun, fight me)
 
 </div>
