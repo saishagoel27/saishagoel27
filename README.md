@@ -21,7 +21,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-## 🔮 the vibe check
+##  the vibe check
 
 Yo, I'm **Saisha** and I'm that girl who thinks neural networks are basically just spicy math ✨
 
