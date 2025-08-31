@@ -101,7 +101,6 @@ when I'm not crying over tensor dimensions, I'm writing about why AI is actually
  **NVIDIA Deep Learning Fundamentals** - *neural network whisperer*  
  **GitHub Foundations** - *git gud at version control*  
  **Python for Data Science (NPTEL)** - *data manipulation queen*  
- **Technical Communication** - *making tech sound less boring*
 
 <br>
 
