@@ -1,50 +1,201 @@
-<h1 align="center">Hi 👋, I'm Saisha Goel</h1>
-<h3 align="center"> I am eager to learn and explore new stuff and connect with people.</h3>
-<img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/04/96/27/28/1000_F_496272894_GMuPuYT92PFU3vTD8tZ19BE6Qg9G3oTD.jpg">
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/saisha50545" target="blank"><img src="https://img.shields.io/twitter/follow/saisha50545?logo=twitter&style=for-the-badge" alt="saisha50545" /></a> </p>
+<!-- Header with animated background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Saisha%20Goel&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Content%20Creator%20%7C%20AI%20Enthusiast%20%7C%20Tech%20Storyteller&descAlignY=51&descAlign=50"/>
 
-- 🔭 I’m currently in **my third year**
+<!-- Animated typing text -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Crafting+stories+in+the+world+of+AI+%26+ML;💫+Turning+complex+tech+into+beautiful+content;🌸+Building+bridges+between+humans+%26+technology;🦋+CS+student+with+a+passion+for+innovation" alt="Typing SVG" />
 
-- 🌱 I’m currently exploring **AI/ML and Cloud**
+</div>
 
-- 👯 I’m looking to connect with **people interested in making and sharing tech content**
+---
 
-- 🤝 I’m looking for help with **resources related to AI/ML, Generative AI and Prompt Engineering**
+## 🌸 Hey there, beautiful souls! 
 
-- 📝 I sometimes write blogs on [https://medium.com/@saishagoel](https://medium.com/@saishagoel)
+<img align="right" alt="Aesthetic coding girl" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 📫 How to reach me **saishagoel005@gmail.com**
+I'm **Saisha** – a dreamer who speaks the language of **AI** and translates complex machine learning concepts into stories that resonate with hearts and minds! 💫
 
-- ⚡ Fun fact **I don't like Maths:{**
+Currently painting my journey as a **Computer Science student** at Amity University, where I'm not just learning algorithms, but discovering the art of making technology accessible and beautiful. ✨
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saisha50545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saisha50545" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saishagoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saishagoel" height="30" width="40" /></a>
-<a href="https://medium.com/@saishagoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saishagoel" height="30" width="40" /></a>
-<a href="https://discord.gg/saisha_goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saisha_goel" height="30" width="40" /></a>
+When I'm not diving deep into neural networks, you'll find me crafting content that makes tech feel less intimidating and more magical! 🪄
+
+<br><br>
+
+---
+
+<div align="center">
+
+## 💝 What Makes My Heart Skip a Beat
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100"><br>
+<sub><b>🤖 AI & Machine Learning</b></sub><br>
+<sub>Creating intelligent solutions that understand and adapt</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100"><br>
+<sub><b>✍️ Content Creation</b></sub><br>
+<sub>Weaving narratives that make tech magical</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-26f8a49b-1d2e-4d6c-8e8d-d08bb8c0c878.gif" width="100"><br>
+<sub><b>🌟 Community Building</b></sub><br>
+<sub>Connecting brilliant minds through shared knowledge</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 My Creative Toolkit
+
+<div align="center">
+
+### 💻 Languages that Speak to My Soul
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c" />
+
+### 🚀 Frameworks & Libraries I Dance With
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+### ☁️ Cloud Platforms Where Magic Happens
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+### 🎨 Design & Content Tools
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+
+</div>
+
+---
+
+## 🌈 Current Vibes & Adventures
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+```python
+class SaishaGoel:
+    def __init__(self):
+        self.name = "Saisha Goel"
+        self.role = "Content Creator & AI Enthusiast"
+        self.location = "India 🇮🇳"
+        self.education = "CS Student @ Amity University"
+        
+    def current_focus(self):
+        return [
+            "🎨 Creating engaging AI/ML content",
+            "📚 Third year CS studies", 
+            "🌟 Building beautiful tech narratives",
+            "💫 Exploring generative AI applications"
+        ]
+        
+    def dream_big(self):
+        print("✨ Bridging the gap between complex AI and human understanding ✨")
+```
+
+---
+
+## 🦋 Featured Creations
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎵 Moodify</h3>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200"/>
 </p>
+<p align="center"><em>Emotion-powered music recommendations using Azure AI</em></p>
+</td>
+<td width="50%">
+<h3 align="center">🎨 Text2Image Magic</h3>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
+</p>
+<p align="center"><em>Bringing imagination to life with Stable Diffusion</em></p>
+</td>
+</tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saishagoel27&show_icons=true&locale=en&layout=compact" alt="saishagoel27" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saishagoel27&" alt="saishagoel27" /></p>
+## 📊 My GitHub Universe
 
+<div align="center">
 
-<!--
-**saishagoel27/saishagoel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=saishagoel27&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishagoel27&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1"/>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saishagoel27&theme=material-palenight&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌟 Certifications & Sparkles
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Microsoft Azure AI Fundamentals** ✨  
+<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **NVIDIA Deep Learning Fundamentals** 🧠  
+<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **GitHub Foundations** 💻  
+<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Python for Data Science** 🐍  
+
+</div>
+
+---
+
+## 💌 Let's Create Magic Together!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80">
+
+*Always excited to collaborate on projects that make technology more human and beautiful!* 💫
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saisha-goel)
+[![Medium](https://img.shields.io/badge/Medium-✍️_Read_My_Stories-12100E?style=for-the-badge&logo=medium)](https://medium.com/@saishagoel)
+[![Email](https://img.shields.io/badge/Email-💌_Say_Hello-D14836?style=for-the-badge&logo=gmail)](mailto:saishagoel005@gmail.com)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+
+**"In a world full of algorithms, be the human touch that makes technology beautiful"** ✨
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=saishagoel27&color=ff69b4&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+
+</div>
