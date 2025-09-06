@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=500&color=ff6b9d&center=true&vCenter=true&multiline=true&width=500&height=100&lines=CS+undergrad+%40+Amity+University+%F0%9F%92%BB;Making+algorithms+less+scary%2C+more+cool+%F0%9F%A6%84;Currently+in+my+villain+era+of+debugging+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=500&color=ff6b9d&center=true&vCenter=true&multiline=true&width=500&height=100&lines=CS+undergrad+%F0%9F%92%BB;Making+algorithms+less+scary%2C+more+cool+%F0%9F%A6%84;Currently+in+my+villain+era+of+debugging+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
