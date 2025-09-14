@@ -15,7 +15,7 @@
 
 ##  the vibe check 😎
 
-**Yo, I'm **Saisha**, a  Pre-final year CS student** who's absolutely obsessed with making ML feel less intimidating and more like... I don't know, your cool older sister explaining how the YouTube algorithm works? 
+Yo, I'm **Saisha**, a Pre-final year CS student who's absolutely obsessed with making ML feel less intimidating and more like... I don't know, your cool older sister explaining how the YouTube algorithm works? 
 
 when I'm not crying over tensor dimensions, I'm writing about why AI is actually pretty chill and how we can make friends with our robot overlords 🤖💕
 
