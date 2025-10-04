@@ -83,35 +83,7 @@ when I'm not crying over tensor dimensions, I'm writing about why AI is actually
 
 </div>
 
----
 
-<div align="center">
-
-## 🏆 flex zone (achievements unlocked)
-
-<br>
-
-<img src="https://media.giphy.com/media/26BRQaiZM0IeyoJfa/giphy.gif" width="300"/>
-
-<br><br>
-
- **Microsoft Azure AI Fundamentals (AI-900)** - *certified cloud girlie*  
- **NVIDIA Deep Learning Fundamentals** - *neural network whisperer*  
- **GitHub Foundations** - *git gud at version control*  
- **Python for Data Science (NPTEL)** - *data manipulation queen*  
-
-<br>
-
-**community involvement:**
--  Core member @ GFG Student Chapter (building tech community vibes)
--  Leading Microsoft Azure Student Chapter (spreading Azure love)
--  Organizing Azure events (because cloud computing is fun, fight me)
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> 
 
