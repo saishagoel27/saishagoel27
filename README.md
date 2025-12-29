@@ -69,13 +69,24 @@ when I'm not crying over tensor dimensions, I'm writing about why AI is actually
 
 <div align="center">
 
-📊 github stats but make it aesthetic
+## 📊 github stats but make it aesthetic
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=saishagoel27&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffc2d1&text_color=ffffff&border_radius=10&cache_seconds=86400" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saishagoel27&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=ffc2d1&currStreakLabel=ff6b9d&sideLabels=ffffff&dates=ffffff&sideNums=ffc2d1&currStreakNum=ff6b9d&border_radius=10" width="49%"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishagoel27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&border_radius=10&langs_count=6&cache_seconds=86400" width="45%"/>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saishagoel27&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=ffc2d1&currStreakLabel=ff6b9d" alt="GitHub Streak"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saishagoel27&theme=radical" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saishagoel27&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saishagoel27&theme=radical" alt="Most Used Language"/>
+</p>
 
 
 
