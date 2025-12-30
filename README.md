@@ -74,8 +74,7 @@ when I'm not crying over tensor dimensions, I'm writing about why AI is actually
 <img src="https://github-readme-stats.vercel.app/api?username=saishagoel27&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffc2d1&text_color=ffffff&border_radius=10" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=saishagoel27&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=ffc2d1&currStreakLabel=ff6b9d&sideLabels=ffffff&dates=ffffff&sideNums=ffc2d1&currStreakNum=ff6b9d&border_radius=10" width="400"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishagoel27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&border_radius=10"/>
-</div>         
+         
 
 
 
