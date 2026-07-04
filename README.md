@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=500&color=ff6b9d&center=true&vCenter=true&multiline=true&width=500&height=100&lines=CS+undergrad+%F0%9F%92%BB;Making+algorithms+less+scary%2C+more+cool+%F0%9F%A6%84;Currently+in+my+villain+era+of+debugging+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=500&color=ff6b9d&center=true&vCenter=true&multiline=true&width=500&height=100&lines=CS+undergrad;Making+algorithms+less+scary+more+cool" alt="Typing SVG" />
 
 </div>
 
@@ -13,11 +13,11 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-##  the vibe check 😎
+##  the vibe check 
 
 Yo, I'm **Saisha**, a Final year CS student who's absolutely obsessed with making ML feel less intimidating and more like... I don't know, your cool friend explaining how the YouTube algorithm works? 
 
-Also I love writing about why AI is actually pretty chill and how we can make friends with our robot lords 🤖💕
+Also I love writing about why AI is actually pretty chill and how we can make friends with our robot lords 
 
 **current status:** debugging my life choices but also tensorflow models 
 
@@ -95,14 +95,14 @@ class CurrentMood:
         
     def daily_energy(self):
         return {
-            "morning": "reading research papers with coffee ☕",
-            "afternoon": "training models and writing about them 🤖", 
-            "evening": "creating content that doesn't suck 📝",
-            "night": "dreaming about the future of AI 🌙"
+            "morning": "reading research papers with coffee ",
+            "afternoon": "training models and writing about them ", 
+            "evening": "creating content that doesn't suck ",
+            "night": "dreaming about the future of AI "
         }
     
     def life_motto(self):
-        return "if you can't explain it simply, train a better model 💅"
+        return "if you can't explain it simply, train a better model "
 ```
 
 ---
@@ -139,7 +139,7 @@ Check out my writing ✨
 <img src="https://img.shields.io/badge/Gmail-💌%20Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <br>
-*thanks for stopping by my corner of the internet! stay curious, stay caffeinated* ☕
+*thanks for stopping by my corner of the internet! stay curious, stay caffeinated* 
 
 <br>
 
