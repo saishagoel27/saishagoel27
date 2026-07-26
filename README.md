@@ -77,34 +77,6 @@ Also I love writing about why AI is actually pretty chill and how we can make fr
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishagoel27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&border_radius=10"/>
 </div>    
          
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> 
-
-## currently vibing with
-
-</div>
-
-```python
-class CurrentMood:
-    def __init__(self):
-        self.status = "pre-final year CS student @ Amity University"
-        self.obsession = ["AI/ML research", "technical writing", "making tech accessible"]
-        self.goals = "bridging the gap between complex AI and real humans"
-        
-    def daily_energy(self):
-        return {
-            "morning": "reading research papers with coffee ",
-            "afternoon": "training models and writing about them ", 
-            "evening": "creating content that doesn't suck ",
-            "night": "dreaming about the future of AI "
-        }
-    
-    def life_motto(self):
-        return "if you can't explain it simply, train a better model "
-```
-
 ---
 
 <div align="center">
