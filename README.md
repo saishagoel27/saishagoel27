@@ -1,89 +1,11 @@
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9a9e,50:fecfef,100:fecfef&height=200&text=hey%20cuties!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=500&color=ff6b9d&center=true&vCenter=true&multiline=true&width=500&height=100&lines=CS+undergrad;Making+algorithms+less+scary+more+cool" alt="Typing SVG" />
-
-</div>
-
----
-
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-##  the vibe check 
-
-Yo, I am Saisha a final-year CS student trying to make ML feel less intimidating like a friend explaining it over coffee instead of a textbook. I write about AI, why it’s not as scary as it seems, and how to actually get comfortable working with it.
+heyo, I am Saisha a final-year CS student trying to make ML feel less intimidating like a friend explaining it over coffee instead of a textbook. I write about AI, why it’s not as scary as it seems, and how to actually get comfortable working with it.
 
 <br><br>
 
----
 
-<div align="center">
-
-## my tech stack
-
-<br>
-
-**languages that don't make me cry:**
-<br><br>
-<img src="https://img.shields.io/badge/Python-ff6b9d?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ffc2d1?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-ff8fab?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML/CSS-ffb3d1?style=flat-square&logo=html5&logoColor=white"/>
-
-**AI/ML frameworks I'm dating:**
-<br><br>
-<img src="https://img.shields.io/badge/TensorFlow-ff6b9d?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-ffc2d1?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ff8fab?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-ffb3d1?style=flat-square&logo=keras&logoColor=white"/>
-
-**data science besties:**
-<br><br>
-<img src="https://img.shields.io/badge/Pandas-ff6b9d?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-ffc2d1?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ff8fab?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-ffb3d1?style=flat-square&logo=opencv&logoColor=white"/>
-
-**cloud & deployment magic:**
-<br><br>
-<img src="https://img.shields.io/badge/Microsoft_Azure-ff6b9d?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-ffc2d1?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-ff8fab?style=flat-square&logo=fastapi&logoColor=white"/>
-
-**design tools for when I'm feeling artsy:**
-<br><br>
-<img src="https://img.shields.io/badge/Canva-ff6b9d?style=flat-square&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Express-ffc2d1?style=flat-square&logo=adobe&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-##  github stats but make it cutesy
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=saishagoel27&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffc2d1&text_color=ffffff&border_radius=10" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saishagoel27&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=ffc2d1&currStreakLabel=ff6b9d&sideLabels=ffffff&dates=ffffff&sideNums=ffc2d1&currStreakNum=ff6b9d&border_radius=10" width="400"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishagoel27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&border_radius=10"/>
-</div>    
-         
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-
-<br>
-
-let's be internet friends!
-
-Check out my writing ✨
 <br>
 <a href="https://medium.com/@saishagoel" target="_blank">
 <img src="https://img.shields.io/badge/Medium-📖%20Main%20Writing%20Hub-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
@@ -107,7 +29,7 @@ Check out my writing ✨
 <img src="https://img.shields.io/badge/Gmail-💌%20Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <br>
-*thanks for stopping by my corner of the internet! stay curious, stay caffeinated* 
+
 
 <br>
 
